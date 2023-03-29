@@ -41,7 +41,7 @@ ${mundur}
 *MAIN MENU*${petik}
  • ${prefix}menu
  • ${prefix}infobot
- • ${prefix}donate
+ • ${prefix}donasi
  • ${prefix}dashboard
  • ${prefix}owner
  • ${prefix}cekdrive
