@@ -58,7 +58,7 @@ if (global.db) global.db.data = {
 }
 
 function title() {
-    console.log(chalk.bold.green(figlet.textSync('Haruka Bot', {
+    console.log(chalk.bold.blue(figlet.textSync('Infinity Bot', {
         font: 'Standard',
         horizontalLayout: 'default',
         verticalLayout: 'default',
