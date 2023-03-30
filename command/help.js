@@ -522,9 +522,12 @@ ${mundur}
 `
 }
 
-exports.donate = (pushname, ownerNumber) => {
+exports.sewanya = (pushname, ownerNumner) => {
     return`Contact  Owner:
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.donate = (pushname, ownerNumber) => {
+    return`Contact  Owner:
+wa.me/${ownerNumber} (Owner)`
+}
