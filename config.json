@@ -1,6 +1,6 @@
 {
-    "ownerNumber": ["6282181829081@s.whatsapp.net","6282181829081@s.whatsapp.net"],
-    "ownerName": "Mr.Mich",
+    "ownerNumber": ["628991544516@s.whatsapp.net","628991544516@s.whatsapp.net"],
+    "ownerName": "Nata",
     "instagram" : "https://instagram.com/",
     "gcwa" : "https://instabio.cc/Alphabot",
     "botName": "InfinityBot ",
@@ -22,9 +22,9 @@
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount":10000,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 1000
     }
 }
